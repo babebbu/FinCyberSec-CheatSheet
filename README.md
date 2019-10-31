@@ -12,7 +12,6 @@
 - https://www.sans.org/media/score/checklists/LinuxCheatsheet_2.pdf
 - https://highon.coffee/blog/security-harden-centos-7/
 - https://github.com/trimstray/the-practical-linux-hardening-guide
-
 - https://www.newnettechnologies.com/downloads/cis/Linux/CentOS/CIS_CentOS_Linux_7_Benchmark_v2.1.0.pdf
 
 ## PHP, Web, Secure Coding
